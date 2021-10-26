@@ -4,11 +4,10 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
 ---
 
 # This page has information about me
 what if I add some text here...?
 
-
+<img src="images/cat.png" style = "width:75%">
 I teach p8105
